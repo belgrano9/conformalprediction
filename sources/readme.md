@@ -4,7 +4,7 @@ This document lists the research papers, articles, and other resources that have
 
 ## Papers
 
-- **A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification:** [https://arxiv.org/pdf/2107.07511]
+- **A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification** (https://arxiv.org/pdf/2107.07511)
 - **Conformal prediction under covariate shift:** [https://arxiv.org/pdf/1904.06019]
 - **Conformal prediction beyond exchangeability:** [https://arxiv.org/pdf/2202.13415]
   - (Optional: Brief note summarizing the paper's relevance to your project)
